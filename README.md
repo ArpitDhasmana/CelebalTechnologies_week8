@@ -92,7 +92,7 @@ This will spin up the chatbot interface accessible at `http://localhost:8501` in
 
 ## Project Structure
 
-```
+
 rag-loan-qa-chatbot/
 ├── app.py                      # Streamlit frontend UI
 ├── data/
@@ -104,7 +104,7 @@ rag-loan-qa-chatbot/
 │   ├── vector_store.py         # Vectorstore embedding & search helper
 │   └── llm_handler.py          # Local LLM loading & text generation wrapper
 └── README.md                   # This file
-```
+
 
 ---
 
